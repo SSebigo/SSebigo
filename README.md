@@ -4,5 +4,5 @@
 
 [![SSebigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSebigo&theme=radical&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🎯 Currently working on a collaborative story writing platform in Flutter
+- 🎯 Currently working on a collaborative story writing platform and a worldbuilding app in Flutter
 - 🌱 Still learning Rust & emulation related stuff
